@@ -1,0 +1,22 @@
+{
+  "name": "testPlugin",
+  "id": "1422827123823839180",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "https://www.figmafolio.com",
+     "https://firestore.googleapis.com",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com"
+    ]
+  }
+}
+
